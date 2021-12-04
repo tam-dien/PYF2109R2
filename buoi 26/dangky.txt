@@ -1,0 +1,5 @@
+dien1234	xinchao
+abc	hello
+xyz	hi
+hello	abce
+helloanhchiem	abc
